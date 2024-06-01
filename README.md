@@ -1,6 +1,6 @@
 # Pandas-Challenge-1
 
-This project analyzes client order data to identify the top clients by order quantity and total spending. The goal is to provide insights into client behavior and profitability, which can inform business decisions and strategies.
+This project analyzes client order data to identify the top clients by order quantity and total spending. The goal is to provide insights into client behavior and profitability, which can inform business decisions and strategies. I was provided assistance by some of my classmates, Edward Adigun and Jennifer Galvan. Sean Morey, the instructor of the class, was a big help. I lastly received assistance from Nomsa Tsotetsi, a BCS tutor. I also could not have been able to finish this code without the help from the BCS Xpert Learning Assistant.
 
 ## Methodology
 
